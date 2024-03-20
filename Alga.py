@@ -23,7 +23,7 @@ def distance(lat1, lon1, lat2, lon2):
     
     return distance
 
-# Fonction pour obtenir les coordonnées et le nom d'un point
+# Fonction pour demander d'entrer les coordonnées et le nom d'un point
 def get_point_info():
     name = input("Entrez le nom du point : ")
     lat = float(input("Latitude du point {} : ".format(name)))
