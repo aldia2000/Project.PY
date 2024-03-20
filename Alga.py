@@ -1,3 +1,5 @@
+#Le projet ci-dessous nous permet de calculer la distance entre deux positions géographique
+
 import math
 
 # On défini une fonction pour calculer la distance entre deux points géographiques
